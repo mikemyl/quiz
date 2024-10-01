@@ -1,138 +1,114 @@
- [
-    {
-      "question": "Which is the most popular JavaScript framework?",
-      "options": ["Angular", "React", "Svelte", "Vue"],
-      "correctOption": 1,
-      "points": 10
-    },
-    {
-      "question": "Which company invented React?",
-      "options": ["Google", "Apple", "Netflix", "Facebook"],
-      "correctOption": 3,
-      "points": 10
-    },
-    {
-      "question": "What's the fundamental building block of React apps?",
-      "options": ["Components", "Blocks", "Elements", "Effects"],
-      "correctOption": 0,
-      "points": 10
-    },
-    {
-      "question": "What's the name of the syntax we use to describe the UI in React components?",
-      "options": ["FBJ", "Babel", "JSX", "ES2015"],
-      "correctOption": 2,
-      "points": 10
-    },
-    {
-      "question": "How does data flow naturally in React apps?",
-      "options": [
-        "From parents to children",
-        "From children to parents",
-        "Both ways",
-        "The developers decides"
-      ],
-      "correctOption": 0,
-      "points": 10
-    },
-    {
-      "question": "How to pass data into a child component?",
-      "options": ["State", "Props", "PropTypes", "Parameters"],
-      "correctOption": 1,
-      "points": 10
-    },
-    {
-      "question": "When to use derived state?",
-      "options": [
-        "Whenever the state should not trigger a re-render",
-        "Whenever the state can be synchronized with an effect",
-        "Whenever the state should be accessible to all components",
-        "Whenever the state can be computed from another state variable"
-      ],
-      "correctOption": 3,
-      "points": 30
-    },
-    {
-      "question": "What triggers a UI re-render in React?",
-      "options": [
-        "Running an effect",
-        "Passing props",
-        "Updating state",
-        "Adding event listeners to DOM elements"
-      ],
-      "correctOption": 2,
-      "points": 20
-    },
-    {
-      "question": "When do we directly \"touch\" the DOM in React?",
-      "options": [
-        "When we need to listen to an event",
-        "When we need to change the UI",
-        "When we need to add styles",
-        "Almost never"
-      ],
-      "correctOption": 3,
-      "points": 20
-    },
-    {
-      "question": "In what situation do we use a callback to update state?",
-      "options": [
-        "When updating the state will be slow",
-        "When the updated state is very data-intensive",
-        "When the state update should happen faster",
-        "When the new state depends on the previous state"
-      ],
-      "correctOption": 3,
-      "points": 30
-    },
-    {
-      "question": "If we pass a function to useState, when will that function be called?",
-      "options": [
-        "On each re-render",
-        "Each time we update the state",
-        "Only on the initial render",
-        "The first time we update the state"
-      ],
-      "correctOption": 2,
-      "points": 30
-    },
-    {
-      "question": "Which hook to use for an API request on the component's initial render?",
-      "options": ["useState", "useEffect", "useRef", "useReducer"],
-      "correctOption": 1,
-      "points": 10
-    },
-    {
-      "question": "Which variables should go into the useEffect dependency array?",
-      "options": [
-        "Usually none",
-        "All our state variables",
-        "All state and props referenced in the effect",
-        "All variables needed for clean up"
-      ],
-      "correctOption": 2,
-      "points": 30
-    },
-    {
-      "question": "An effect will always run on the initial render.",
-      "options": [
-        "True",
-        "It depends on the dependency array",
-        "False",
-        "In depends on the code in the effect"
-      ],
-      "correctOption": 0,
-      "points": 30
-    },
-    {
-      "question": "When will an effect run if it doesn't have a dependency array?",
-      "options": [
-        "Only when the component mounts",
-        "Only when the component unmounts",
-        "The first time the component re-renders",
-        "Each time the component is re-rendered"
-      ],
-      "correctOption": 3,
-      "points": 20
-    }
-  ]
-
+[
+  {
+    "question": "Which of the following is not one of the twelve Olympian gods?",
+    "options": ["Hades", "Dionysus", "Hestia", "Ares"],
+    "correctOption": 0,
+    "points": 10,
+    "imageDescription": "A stylized Mount Olympus with silhouettes of various gods, with one standing apart from the group"
+  },
+  {
+    "question": "Approximately how many children is Zeus said to have had in various myths?",
+    "options": ["10-20", "30-50", "60-100", "Over 100"],
+    "correctOption": 3,
+    "points": 30,
+    "imageDescription": "A crowded group portrait of diverse mythological figures, with Zeus towering above them"
+  },
+  {
+    "question": "And how many wives / GFS / lovers ?",
+    "options": ["1", "7", "20", "More"],
+    "correctOption": 3,
+    "points": 30,
+    "imageDescription": "A family tree diagram showing Zeus at the top connected to different lovers, wives"
+  },
+  {
+    "question": "Who is known as the messenger god in Greek mythology?",
+    "options": ["Apollo", "Hermes", "Ares", "Dionysus"],
+    "correctOption": 1,
+    "points": 10,
+    "imageDescription": "A figure with winged sandals and a caduceus (staff with two snakes) against a cloudy sky"
+  },
+  {
+    "question": "Which goddess is associated with wisdom, warfare, and crafts?",
+    "options": ["Hera", "Aphrodite", "Athena", "Artemis"],
+    "correctOption": 2,
+    "points": 10,
+    "imageDescription": "A stern-looking woman wearing a helmet and holding a shield with an owl perched on her shoulder"
+  },
+  {
+    "question": "What was the name of Hades' three-headed dog that guarded the underworld?",
+    "options": ["Orthrus", "Cerberus", "Laelaps", "Chimera"],
+    "correctOption": 1,
+    "points": 20,
+    "imageDescription": "A massive three-headed dog standing at the gates of a dark, cavernous entrance"
+  },
+  {
+    "question": "What was the name of Apollo's twin sister?",
+    "options": ["Athena", "Artemis", "Hestia", "Persephone"],
+    "correctOption": 1,
+    "points": 20,
+    "imageDescription": "Two similar-looking divine figures, one with a bow and one with a lyre"
+  },
+  {
+    "question": "Which goddess was born from sea foam?",
+    "options": ["Hera", "Demeter", "Athena", "Aphrodite"],
+    "correctOption": 3,
+    "points": 20,
+    "imageDescription": "A beautiful woman rising from the sea on a large seashell"
+  },
+  {
+    "question": "What was the name of Zeus's shield, often borrowed by Athena?",
+    "options": ["Aegis", "Argo", "Fleece", "Caduceus"],
+    "correctOption": 0,
+    "points": 30,
+    "imageDescription": "A ornate shield with the face of Medusa emblazoned on it"
+  },
+  {
+    "question": "Which god was married to Aphrodite but was known for his ugliness and lameness?",
+    "options": ["Ares", "Hephaestus", "Dionysus", "Hermes"],
+    "correctOption": 1,
+    "points": 20,
+    "imageDescription": "A muscular, bearded man with a misshapen leg working at a forge"
+  },
+  {
+    "question": "Who is the goddess of the hunt and the moon?",
+    "options": ["Artemis", "Demeter", "Hestia", "Hera"],
+    "correctOption": 0,
+    "points": 10,
+    "imageDescription": "A woman with a bow and arrow, standing in a forest under a full moon"
+  },
+  {
+    "question": "Which god rules the underworld?",
+    "options": ["Ares", "Hephaestus", "Hades", "Dionysus"],
+    "correctOption": 2,
+    "points": 10,
+    "imageDescription": "A dark figure on a throne, surrounded by shadowy souls and a three-headed dog"
+  },
+  {
+    "question": "What was the name of the nymph who was turned into a laurel tree to escape Apollo?",
+    "options": ["Daphne", "Echo", "Syrinx", "Arethusa"],
+    "correctOption": 0,
+    "points": 30,
+    "imageDescription": "A woman transforming into a laurel tree with outstretched branch-like arms"
+  },
+  {
+    "question": "Which god is known for his skill in metalworking and craftsmanship?",
+    "options": ["Ares", "Hermes", "Apollo", "Hephaestus"],
+    "correctOption": 3,
+    "points": 20,
+    "imageDescription": "A muscular man working at a forge, hammering a piece of glowing metal"
+  },
+  {
+    "question": "Who is the goddess of marriage and family?",
+    "options": ["Hera", "Aphrodite", "Artemis", "Athena"],
+    "correctOption": 0,
+    "points": 10,
+    "imageDescription": "A regal woman wearing a crown, holding a pomegranate and a peacock feather"
+  },
+  {
+    "question": "Which god is associated with wine and parties ?",
+    "options": ["Apollo", "Hermes", "Dionysus", "Ares"],
+    "correctOption": 2,
+    "points": 20,
+    "imageDescription": "A figure wearing a grape vine crown, holding a thyrsus (pine cone-tipped staff) and a wine cup"
+  }
+]

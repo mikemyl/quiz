@@ -89,6 +89,7 @@ export default function App() {
 							answer={answer}
 						/>
 						<Question
+							index={index}
 							question={questions[index]}
 							dispatch={dispatch}
 							answer={answer}
