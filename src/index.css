@@ -258,3 +258,14 @@ progress {
   font-size: inherit;
   padding: 0.8rem;
 }
+
+.question-image-container {
+  width: 80%;
+}
+
+.question-image {
+  width: 80%;
+  height: auto;
+  max-width: 80%;
+  object-fit: contain;
+}
