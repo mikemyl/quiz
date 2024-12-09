@@ -1,8 +1,7 @@
 function Header() {
   return (
     <header className='app-header'>
-      <img src='greek-mythology.jpg' alt='React logo' />
-      <h1>Greek Mythology Quiz</h1>
+      <h1>Christmas Around the World Quiz</h1>
     </header>
   );
 }

@@ -1,114 +1,116 @@
 [
-  {
-    "question": "Which of the following is not one of the twelve Olympian gods?",
-    "options": ["Hades", "Dionysus", "Hestia", "Ares"],
-    "correctOption": 0,
-    "points": 10,
-    "imageDescription": "A stylized Mount Olympus with silhouettes of various gods, with one standing apart from the group"
-  },
-  {
-    "question": "Approximately how many children is Zeus said to have had in various myths?",
-    "options": ["10-20", "30-50", "60-100", "Over 100"],
-    "correctOption": 3,
-    "points": 30,
-    "imageDescription": "A crowded group portrait of diverse mythological figures, with Zeus towering above them"
-  },
-  {
-    "question": "And how many wives / GFS / lovers ?",
-    "options": ["1", "7", "20", "More"],
-    "correctOption": 3,
-    "points": 30,
-    "imageDescription": "A family tree diagram showing Zeus at the top connected to different lovers, wives"
-  },
-  {
-    "question": "Who is known as the messenger god in Greek mythology?",
-    "options": ["Apollo", "Hermes", "Ares", "Dionysus"],
-    "correctOption": 1,
-    "points": 10,
-    "imageDescription": "A figure with winged sandals and a caduceus (staff with two snakes) against a cloudy sky"
-  },
-  {
-    "question": "Which goddess is associated with wisdom, warfare, and crafts?",
-    "options": ["Hera", "Aphrodite", "Athena", "Artemis"],
-    "correctOption": 2,
-    "points": 10,
-    "imageDescription": "A stern-looking woman wearing a helmet and holding a shield with an owl perched on her shoulder"
-  },
-  {
-    "question": "What was the name of Hades' three-headed dog that guarded the underworld?",
-    "options": ["Orthrus", "Cerberus", "Laelaps", "Chimera"],
-    "correctOption": 1,
-    "points": 20,
-    "imageDescription": "A massive three-headed dog standing at the gates of a dark, cavernous entrance"
-  },
-  {
-    "question": "What was the name of Apollo's twin sister?",
-    "options": ["Athena", "Artemis", "Hestia", "Persephone"],
-    "correctOption": 1,
-    "points": 20,
-    "imageDescription": "Two similar-looking divine figures, one with a bow and one with a lyre"
-  },
-  {
-    "question": "Which goddess was born from sea foam?",
-    "options": ["Hera", "Demeter", "Athena", "Aphrodite"],
-    "correctOption": 3,
-    "points": 20,
-    "imageDescription": "A beautiful woman rising from the sea on a large seashell"
-  },
-  {
-    "question": "What was the name of Zeus's shield, often borrowed by Athena?",
-    "options": ["Aegis", "Argo", "Fleece", "Caduceus"],
-    "correctOption": 0,
-    "points": 30,
-    "imageDescription": "A ornate shield with the face of Medusa emblazoned on it"
-  },
-  {
-    "question": "Which god was married to Aphrodite but was known for his ugliness and lameness?",
-    "options": ["Ares", "Hephaestus", "Dionysus", "Hermes"],
-    "correctOption": 1,
-    "points": 20,
-    "imageDescription": "A muscular, bearded man with a misshapen leg working at a forge"
-  },
-  {
-    "question": "Who is the goddess of the hunt and the moon?",
-    "options": ["Artemis", "Demeter", "Hestia", "Hera"],
-    "correctOption": 0,
-    "points": 10,
-    "imageDescription": "A woman with a bow and arrow, standing in a forest under a full moon"
-  },
-  {
-    "question": "Which god rules the underworld?",
-    "options": ["Ares", "Hephaestus", "Hades", "Dionysus"],
-    "correctOption": 2,
-    "points": 10,
-    "imageDescription": "A dark figure on a throne, surrounded by shadowy souls and a three-headed dog"
-  },
-  {
-    "question": "What was the name of the nymph who was turned into a laurel tree to escape Apollo?",
-    "options": ["Daphne", "Echo", "Syrinx", "Arethusa"],
-    "correctOption": 0,
-    "points": 30,
-    "imageDescription": "A woman transforming into a laurel tree with outstretched branch-like arms"
-  },
-  {
-    "question": "Which god is known for his skill in metalworking and craftsmanship?",
-    "options": ["Ares", "Hermes", "Apollo", "Hephaestus"],
-    "correctOption": 3,
-    "points": 20,
-    "imageDescription": "A muscular man working at a forge, hammering a piece of glowing metal"
-  },
-  {
-    "question": "Who is the goddess of marriage and family?",
-    "options": ["Hera", "Aphrodite", "Artemis", "Athena"],
-    "correctOption": 0,
-    "points": 10,
-    "imageDescription": "A regal woman wearing a crown, holding a pomegranate and a peacock feather"
-  },
-  {
-    "question": "Which god is associated with wine and parties ?",
-    "options": ["Apollo", "Hermes", "Dionysus", "Ares"],
-    "correctOption": 2,
-    "points": 20,
-    "imageDescription": "A figure wearing a grape vine crown, holding a thyrsus (pine cone-tipped staff) and a wine cup"
-  }
+	{
+		"question": "In which country is it traditional to eat KFC for Christmas dinner?",
+		"options": ["United States", "Australia", "Japan", "South Korea"],
+		"correctOption": 2,
+		"points": 20,
+		"imageDescription": "A festive table set with KFC buckets and Christmas decorations."
+	},
+	{
+		"question": "What country started the tradition of Christmas trees?",
+		"options": ["United States", "Germany", "China", "United Kingdom"],
+		"correctOption": 1,
+		"points": 10,
+		"imageDescription": "A beautifully decorated Christmas tree in a German setting."
+	},
+	{
+		"question": "What is gifted among Icelanders during 'Jólabókaflóð' (that's in the last few months before Christmas) ?",
+		"options": ["Mittens", "Books", "Socks", "Chocolates"],
+		"correctOption": 1,
+		"points": 30,
+		"imageDescription": "An array of colorful books wrapped as gifts."
+	},
+	{
+		"question": "Which country celebrates Christmas with a 'Feast of the Seven Fishes'?",
+		"options": ["Greece", "Italy", "Portugal", "Spain"],
+		"correctOption": 1,
+		"points": 20,
+		"imageDescription": "A lavish dinner table filled with various fish dishes."
+	},
+	{
+		"question": "'Joulupukki' is the name for Santa Claus in which country?",
+		"options": ["Finland", "Sweden", "Norway", "Iceland"],
+		"correctOption": 0,
+		"points": 10,
+		"imageDescription": "A traditional Finnish Santa Claus figure."
+	},
+	{
+		"question": "In South Africa, what is a 'Braai'?",
+		"options": ["Traditional dance", "Special church service", "Christmas presents hunt", "Large barbecue"],
+		"correctOption": 3,
+		"points": 20,
+		"imageDescription": "People enjoying a barbecue outdoors during Christmas."
+	},
+	{
+		"question": "Which country sends a Christmas tree to London every year as a gift?",
+		"options": ["Denmark", "Canada", "Norway", "Sweden"],
+		"correctOption": 2,
+		"points": 30,
+		"imageDescription": "The iconic Christmas tree in Trafalgar Square, London."
+	},
+	{
+		"question": "What plant is commonly associated with Christmas and has white berries?",
+		"options": ["Holly", "Pine", "Mistletoe", "Ivy"],
+		"correctOption": 2,
+		"points": 10,
+		"imageDescription": "'Mistletoe' hanging in a doorway with people underneath it."
+	},
+	{
+		"question": "'Feliz Navidad' means Merry Christmas in which language?",
+		"options": ["French", "Italian", "Spanish", "Portuguese"],
+		"correctOption": 2,
+		"points": 10,
+		"imageDescription": "'Feliz Navidad' written on a festive card."
+	},
+	{
+		"question": "'Panettone' is a traditional Christmas bread from which country?",
+		"options": ["France", "Italy", "Germany", "Spain"],
+		"correctOption": 1,
+		"points": 20,
+		"imageDescription": "'Panettone' loaf with festive decorations around it."
+	},
+	{
+		"question": "In which country do people celebrate Christmas with 'Roller Skating' to church?",
+		"options": ["Venezuela", "Brazil", "Argentina", "Colombia"],
+		"correctOption": 0,
+		"points": 30,
+		"imageDescription": "People roller skating in festive Christmas attire on city streets"
+	},
+	{
+		"question": "What is the traditional Christmas dessert in Australia?",
+		"options": ["Fruit Cake", "Pavlova", "Plum Pudding", "Mince Pies"],
+		"correctOption": 2,
+		"points": 20,
+		"imageDescription": "A traditional Christmas pudding with holly decoration, served in a warm climate"
+	},
+	{
+		"question": "Which country celebrates Christmas with a giant goat statue?",
+		"options": ["Sweden", "Norway", "Finland", "Denmark"],
+		"correctOption": 0,
+		"points": 30,
+		"imageDescription": "A massive straw goat statue in a snowy Swedish town square"
+	},
+	{
+		"question": "What is the traditional Christmas Eve meal in Poland?",
+		"options": ["Turkey", "Ham", "12 Meatless Dishes", "Roast Beef"],
+		"correctOption": 2,
+		"points": 20,
+		"imageDescription": "A festive Polish table with 12 different vegetarian dishes"
+	},
+	{
+		"question": "In which country do children receive gifts from 'La Befana', a good witch?",
+		"options": ["Spain", "Italy", "Greece", "Portugal"],
+		"correctOption": 1,
+		"points": 10,
+		"imageDescription": "A witch-like figure delivering gifts to children on a traditional Italian street"
+	},
+	{
+		"question": "What is the name of the traditional Christmas bread eaten in Mexico?",
+		"options": ["Panettone", "Brioche", "Rosca de Reyes", "Stollen"],
+		"correctOption": 2,
+		"points": 20,
+		"imageDescription": "A beautifully decorated 'Rosca de Reyes' bread with colorful toppings and a festive setting"
+	}
+
 ]
+
