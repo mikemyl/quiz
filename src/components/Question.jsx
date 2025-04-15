@@ -5,7 +5,7 @@ function Question({ index, question, dispatch, answer }) {
 		<div>
 			<div style={{ width: '100%', maxHeight: '50vh', display: 'flex', justifyContent: 'center', marginBottom: '2rem' }}>
 				<img
-					src={`${index}.jpeg`}
+					src={`${index}.png`}
 					alt={`Image ${index}`}
 					style={{
 						width: '100%',

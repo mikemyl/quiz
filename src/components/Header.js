@@ -1,7 +1,7 @@
 function Header() {
   return (
     <header className='app-header'>
-      <h1>Christmas Around the World Quiz</h1>
+      <h1>Greek Food Quiz</h1>
     </header>
   );
 }

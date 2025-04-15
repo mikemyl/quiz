@@ -1,116 +1,73 @@
 [
 	{
-		"question": "In which country is it traditional to eat KFC for Christmas dinner?",
-		"options": ["United States", "Australia", "Japan", "South Korea"],
-		"correctOption": 2,
-		"points": 20,
-		"imageDescription": "A festive table set with KFC buckets and Christmas decorations."
-	},
-	{
-		"question": "What country started the tradition of Christmas trees?",
-		"options": ["United States", "Germany", "China", "United Kingdom"],
+		"question": "What's a common meal during Easter Day in Greece?",
+		"options": ["Moussaka", "Roasted lamb (on a split)", "Grilled octopus", "Pastitsio"],
 		"correctOption": 1,
 		"points": 10,
-		"imageDescription": "A beautifully decorated Christmas tree in a German setting."
+		"imageDescription": "A Greek family gathered around a table with a roasted lamb centerpiece."
 	},
 	{
-		"question": "What is gifted among Icelanders during 'Jólabókaflóð' (that's in the last few months before Christmas) ?",
-		"options": ["Mittens", "Books", "Socks", "Chocolates"],
-		"correctOption": 1,
-		"points": 30,
-		"imageDescription": "An array of colorful books wrapped as gifts."
-	},
-	{
-		"question": "Which country celebrates Christmas with a 'Feast of the Seven Fishes'?",
-		"options": ["Greece", "Italy", "Portugal", "Spain"],
+		"question": "What's a common type of food people in Greece have as a hangover remedy?",
+		"options": ["Yogurt with honey", "Tripe soup", "Feta cheese plate", "Strong Greek coffee"],
 		"correctOption": 1,
 		"points": 20,
-		"imageDescription": "A lavish dinner table filled with various fish dishes."
+		"imageDescription": "A steaming bowl of tripe soup served with bread."
 	},
 	{
-		"question": "'Joulupukki' is the name for Santa Claus in which country?",
-		"options": ["Finland", "Sweden", "Norway", "Iceland"],
+		"question": "Which of these is considered a Greek delicacy that might seem unusual to outsiders?",
+		"options": ["Snails cooked in tomato sauce", "Fried grasshoppers", "Ant eggs in honey", "Fish eye stew"],
 		"correctOption": 0,
-		"points": 10,
-		"imageDescription": "A traditional Finnish Santa Claus figure."
+		"points": 30,
+		"imageDescription": "A plate of cooked snails prepared with herbs and tomato sauce."
 	},
 	{
-		"question": "In South Africa, what is a 'Braai'?",
-		"options": ["Traditional dance", "Special church service", "Christmas presents hunt", "Large barbecue"],
+		"question": "What's the main difference between pastitsio and moussaka?",
+		"options": ["Pastitsio uses pasta, moussaka uses potatoes/eggplant", "Pastitsio is vegetarian, moussaka contains meat", "Pastitsio is sweet, moussaka is savory", "Pastitsio is served cold, moussaka is served hot"],
+		"correctOption": 0,
+		"points": 20,
+		"imageDescription": "Side-by-side comparison of pastitsio and moussaka dishes."
+	},
+	{
+		"question": "Which Greek island is known for producing some of the best pistachios in the world?",
+		"options": ["Crete", "Santorini", "Aegina", "Rhodes"],
+		"correctOption": 2,
+		"points": 30,
+		"imageDescription": "Fresh pistachios from Aegina island with their distinctive reddish shells."
+	},
+	{
+		"question": "What is the traditional method for brewing authentic Greek coffee?",
+		"options": ["Filter brewing with cinnamon", "Boiling in a special pot (called briki) until it froths", "Cold brewing in a special pot overnight with cardamom", "Steaming under pressure like espresso"],
+		"correctOption": 1,
+		"points": 20,
+		"imageDescription": "A traditional copper briki with Greek coffee frothing on top."
+	},
+	{
+		"question": "What is the most popular coffee drink in modern Greece?",
+		"options": ["Greek coffee", "Freddo espresso (cold espresso shaken with ice)", "Frappé (instant coffee foam)", "Americano"],
+		"correctOption": 1,
+		"points": 20,
+		"imageDescription": "A tall glass of layered freddo espresso with ice cubes."
+	},
+	{
+		"question": "What is the most common type of meat used in traditional Greek souvlaki wrap?",
+		"options": ["Chicken", "Lamb", "Beef", "Pork"],
 		"correctOption": 3,
-		"points": 20,
-		"imageDescription": "People enjoying a barbecue outdoors during Christmas."
+		"points": 10,
+		"imageDescription": "A gyros wrap with pork meat, tomatoes, onions, and tzatziki sauce."
 	},
 	{
-		"question": "Which country sends a Christmas tree to London every year as a gift?",
-		"options": ["Denmark", "Canada", "Norway", "Sweden"],
+		"question": "What is the traditional dish served at weddings on the Greek island of Crete?",
+		"options": ["Seafood platter", "Roast lamb with potatoes", "Gamopilafo (wedding rice cooked in meat broth)", "Pastitsio"],
 		"correctOption": 2,
 		"points": 30,
-		"imageDescription": "The iconic Christmas tree in Trafalgar Square, London."
+		"imageDescription": "A traditional serving of gamopilafo, a creamy rice dish served at Cretan celebrations."
 	},
 	{
-		"question": "What plant is commonly associated with Christmas and has white berries?",
-		"options": ["Holly", "Pine", "Mistletoe", "Ivy"],
+		"question": "What is 'boubari', a specialty from the Pelion region of Greece?",
+		"options": ["A type of smoked sausage", "Grilled pork ribs", "Intestine stuffed with rice, liver, herbs and spices", "Lamb meatballs with mint"],
 		"correctOption": 2,
-		"points": 10,
-		"imageDescription": "'Mistletoe' hanging in a doorway with people underneath it."
-	},
-	{
-		"question": "'Feliz Navidad' means Merry Christmas in which language?",
-		"options": ["French", "Italian", "Spanish", "Portuguese"],
-		"correctOption": 2,
-		"points": 10,
-		"imageDescription": "'Feliz Navidad' written on a festive card."
-	},
-	{
-		"question": "'Panettone' is a traditional Christmas bread from which country?",
-		"options": ["France", "Italy", "Germany", "Spain"],
-		"correctOption": 1,
-		"points": 20,
-		"imageDescription": "'Panettone' loaf with festive decorations around it."
-	},
-	{
-		"question": "In which country do people celebrate Christmas with 'Roller Skating' to church?",
-		"options": ["Venezuela", "Brazil", "Argentina", "Colombia"],
-		"correctOption": 0,
 		"points": 30,
-		"imageDescription": "People roller skating in festive Christmas attire on city streets"
-	},
-	{
-		"question": "What is the traditional Christmas dessert in Australia?",
-		"options": ["Fruit Cake", "Pavlova", "Plum Pudding", "Mince Pies"],
-		"correctOption": 2,
-		"points": 20,
-		"imageDescription": "A traditional Christmas pudding with holly decoration, served in a warm climate"
-	},
-	{
-		"question": "Which country celebrates Christmas with a giant goat statue?",
-		"options": ["Sweden", "Norway", "Finland", "Denmark"],
-		"correctOption": 0,
-		"points": 30,
-		"imageDescription": "A massive straw goat statue in a snowy Swedish town square"
-	},
-	{
-		"question": "What is the traditional Christmas Eve meal in Poland?",
-		"options": ["Turkey", "Ham", "12 Meatless Dishes", "Roast Beef"],
-		"correctOption": 2,
-		"points": 20,
-		"imageDescription": "A festive Polish table with 12 different vegetarian dishes"
-	},
-	{
-		"question": "In which country do children receive gifts from 'La Befana', a good witch?",
-		"options": ["Spain", "Italy", "Greece", "Portugal"],
-		"correctOption": 1,
-		"points": 10,
-		"imageDescription": "A witch-like figure delivering gifts to children on a traditional Italian street"
-	},
-	{
-		"question": "What is the name of the traditional Christmas bread eaten in Mexico?",
-		"options": ["Panettone", "Brioche", "Rosca de Reyes", "Stollen"],
-		"correctOption": 2,
-		"points": 20,
-		"imageDescription": "A beautifully decorated 'Rosca de Reyes' bread with colorful toppings and a festive setting"
+		"imageDescription": "A plate of sliced boubari showing the stuffed intestine with rice and herbs inside."
 	}
 
 ]
-
