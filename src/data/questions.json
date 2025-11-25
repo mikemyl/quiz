@@ -1,73 +1,73 @@
 [
 	{
-		"question": "What's a common meal during Easter Day in Greece?",
-		"options": ["Moussaka", "Roasted lamb (on a split)", "Grilled octopus", "Pastitsio"],
-		"correctOption": 1,
+		"question": "What is the longest recorded time period a chicken has lived without its head",
+		"options": ["10 minutes", "5 hours", "10 days", "18 months"],
+		"correctOption": 3,
 		"points": 10,
-		"imageDescription": "A Greek family gathered around a table with a roasted lamb centerpiece."
+		"imageDescription": "A headless chicken with its neck and tail visible."
 	},
 	{
-		"question": "What's a common type of food people in Greece have as a hangover remedy?",
-		"options": ["Yogurt with honey", "Tripe soup", "Feta cheese plate", "Strong Greek coffee"],
-		"correctOption": 1,
+		"question": "What's the longest a cat managed to live?",
+		"options": ["30 years", "34 years", "38 years", "42 years"],
+		"correctOption": 2,
 		"points": 20,
-		"imageDescription": "A steaming bowl of tripe soup served with bread."
+		"imageDescription": "An old cat"
 	},
 	{
-		"question": "Which of these is considered a Greek delicacy that might seem unusual to outsiders?",
-		"options": ["Snails cooked in tomato sauce", "Fried grasshoppers", "Ant eggs in honey", "Fish eye stew"],
-		"correctOption": 0,
+		"question": "Which fruit we eat regularly is radioactive?",
+		"options": ["Pineapple", "Strawberries", "Grapes", "Bananas"],
+		"correctOption": 3,
 		"points": 30,
 		"imageDescription": "A plate of cooked snails prepared with herbs and tomato sauce."
 	},
 	{
-		"question": "What's the main difference between pastitsio and moussaka?",
-		"options": ["Pastitsio uses pasta, moussaka uses potatoes/eggplant", "Pastitsio is vegetarian, moussaka contains meat", "Pastitsio is sweet, moussaka is savory", "Pastitsio is served cold, moussaka is served hot"],
-		"correctOption": 0,
+		"question": "Apart from fighting with soldiers, what else is known to have attacked Napoleon Bonaparte?",
+		"options": ["A pack of wolves", "A swarm of rabbits", "A group of wild horses", "A group of sheep"],
+		"correctOption": 1,
 		"points": 20,
-		"imageDescription": "Side-by-side comparison of pastitsio and moussaka dishes."
+		"imageDescription": "Napoleon Bonaparte, famously attacked by a swarm of rabbits during a celebratory hunt in 1807."
 	},
 	{
-		"question": "Which Greek island is known for producing some of the best pistachios in the world?",
-		"options": ["Crete", "Santorini", "Aegina", "Rhodes"],
+		"question": "How many time zones are in play in France?",
+		"options": ["8", "10", "12", "14"],
 		"correctOption": 2,
 		"points": 30,
 		"imageDescription": "Fresh pistachios from Aegina island with their distinctive reddish shells."
 	},
 	{
-		"question": "What is the traditional method for brewing authentic Greek coffee?",
-		"options": ["Filter brewing with cinnamon", "Boiling in a special pot (called briki) until it froths", "Cold brewing in a special pot overnight with cardamom", "Steaming under pressure like espresso"],
-		"correctOption": 1,
-		"points": 20,
-		"imageDescription": "A traditional copper briki with Greek coffee frothing on top."
-	},
-	{
-		"question": "What is the most popular coffee drink in modern Greece?",
-		"options": ["Greek coffee", "Freddo espresso (cold espresso shaken with ice)", "Frappé (instant coffee foam)", "Americano"],
-		"correctOption": 1,
-		"points": 20,
-		"imageDescription": "A tall glass of layered freddo espresso with ice cubes."
-	},
-	{
-		"question": "What is the most common type of meat used in traditional Greek souvlaki wrap?",
-		"options": ["Chicken", "Lamb", "Beef", "Pork"],
+		"question": "What percentage of the world's population lives in the Northern Hemisphere?",
+		"options": ["60%", "70%", "80%", "90%"],
 		"correctOption": 3,
-		"points": 10,
-		"imageDescription": "A gyros wrap with pork meat, tomatoes, onions, and tzatziki sauce."
+		"points": 20,
+		"imageDescription": "world hemisphere map"
 	},
 	{
-		"question": "What is the traditional dish served at weddings on the Greek island of Crete?",
-		"options": ["Seafood platter", "Roast lamb with potatoes", "Gamopilafo (wedding rice cooked in meat broth)", "Pastitsio"],
+		"question": "What's the longest time a man managed to hold his breath underwater?",
+		"options": ["23 minutes", "26 minutes", "29 minutes", "31 minutes"],
 		"correctOption": 2,
+		"points": 20,
+		"imageDescription": "Man holds breath underwater for 31 minutes."
+	},
+	{
+		"question": "How many islands does the Philippines have?",
+		"options": ["53", "698", "7641", "12865"],
+		"correctOption": 2,
+		"points": 10,
+		"imageDescription": "Phillipines"
+	},
+	{
+		"question": "Who made a bubblegum-flavored brocoli?",
+		"options": ["Pret", "Tesco", "Leon", "McDonalds"],
+		"correctOption": 3,
 		"points": 30,
 		"imageDescription": "A traditional serving of gamopilafo, a creamy rice dish served at Cretan celebrations."
 	},
 	{
-		"question": "What is 'boubari', a specialty from the Pelion region of Greece?",
-		"options": ["A type of smoked sausage", "Grilled pork ribs", "Intestine stuffed with rice, liver, herbs and spices", "Lamb meatballs with mint"],
+		"question": "How many eggs does a giant Pacific Octopus lay on average at the end of its pregnancy?",
+		"options": ["560", "5600", "56000", "560000"],
 		"correctOption": 2,
 		"points": 30,
-		"imageDescription": "A plate of sliced boubari showing the stuffed intestine with rice and herbs inside."
+		"imageDescription": "Octopus"
 	}
 
 ]
