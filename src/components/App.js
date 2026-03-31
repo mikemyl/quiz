@@ -13,7 +13,7 @@ import Footer from './Footer';
 import Timer from './Timer';
 import questions from '../data/questions.json';
 
-const SECS_PER_QUESTION = 90;
+const SECS_PER_QUESTION = 240;
 
 const initialState = {
 	questions: questions,

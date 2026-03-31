@@ -1,73 +1,113 @@
 [
-	{
-		"question": "What is the longest recorded time period a chicken has lived without its head",
-		"options": ["10 minutes", "5 hours", "10 days", "18 months"],
-		"correctOption": 3,
-		"points": 10,
-		"imageDescription": "A headless chicken with its neck and tail visible."
-	},
-	{
-		"question": "What's the longest a cat managed to live?",
-		"options": ["30 years", "34 years", "38 years", "42 years"],
-		"correctOption": 2,
-		"points": 20,
-		"imageDescription": "An old cat"
-	},
-	{
-		"question": "Which fruit we eat regularly is radioactive?",
-		"options": ["Pineapple", "Strawberries", "Grapes", "Bananas"],
-		"correctOption": 3,
-		"points": 30,
-		"imageDescription": "A plate of cooked snails prepared with herbs and tomato sauce."
-	},
-	{
-		"question": "Apart from fighting with soldiers, what else is known to have attacked Napoleon Bonaparte?",
-		"options": ["A pack of wolves", "A swarm of rabbits", "A group of wild horses", "A group of sheep"],
-		"correctOption": 1,
-		"points": 20,
-		"imageDescription": "Napoleon Bonaparte, famously attacked by a swarm of rabbits during a celebratory hunt in 1807."
-	},
-	{
-		"question": "How many time zones are in play in France?",
-		"options": ["8", "10", "12", "14"],
-		"correctOption": 2,
-		"points": 30,
-		"imageDescription": "Fresh pistachios from Aegina island with their distinctive reddish shells."
-	},
-	{
-		"question": "What percentage of the world's population lives in the Northern Hemisphere?",
-		"options": ["60%", "70%", "80%", "90%"],
-		"correctOption": 3,
-		"points": 20,
-		"imageDescription": "world hemisphere map"
-	},
-	{
-		"question": "What's the longest time a man managed to hold his breath underwater?",
-		"options": ["23 minutes", "26 minutes", "29 minutes", "31 minutes"],
-		"correctOption": 2,
-		"points": 20,
-		"imageDescription": "Man holds breath underwater for 31 minutes."
-	},
-	{
-		"question": "How many islands does the Philippines have?",
-		"options": ["53", "698", "7641", "12865"],
-		"correctOption": 2,
-		"points": 10,
-		"imageDescription": "Phillipines"
-	},
-	{
-		"question": "Who made a bubblegum-flavored brocoli?",
-		"options": ["Pret", "Tesco", "Leon", "McDonalds"],
-		"correctOption": 3,
-		"points": 30,
-		"imageDescription": "A traditional serving of gamopilafo, a creamy rice dish served at Cretan celebrations."
-	},
-	{
-		"question": "How many eggs does a giant Pacific Octopus lay on average at the end of its pregnancy?",
-		"options": ["560", "5600", "56000", "560000"],
-		"correctOption": 2,
-		"points": 30,
-		"imageDescription": "Octopus"
-	}
-
+  {
+    "question": "Metallica fired Dave Mustaine for his alcohol and drug addiction in April 11, 1983. What did Dave do next?",
+    "options": [
+      "Retired from music and became a producer",
+      "Founded Megadeth, one of the Big Four of thrash metal",
+      "Joined Slayer as lead guitarist",
+      "Sued Metallica for songwriting credits and won"
+    ],
+    "correctOption": 1,
+    "points": 20
+  },
+  {
+    "question": "Beethoven composed his iconic Symphony No. 9 — featuring 'Ode to Joy' — while almost completely deaf. How did he 'hear' the premiere performance in 1824?",
+    "options": [
+      "He watched the musicians' bowing patterns to follow along",
+      "He felt the vibrations through the floor by removing his shoes",
+      "He had to be turned around by a soloist to see the applauding crowd — he couldn't hear it at all",
+      "He listened through a special ear trumpet connected to the piano"
+    ],
+    "correctOption": 2,
+    "points": 20
+  },
+  {
+    "question": "At what age is Mozart believed to have composed his very first piece of music?",
+    "options": [
+      "3",
+      "5",
+      "7",
+      "9"
+    ],
+    "correctOption": 1,
+    "points": 10
+  },
+  {
+    "question": "Which of the following artists did NOT sing on the 1985 charity anthem 'We Are the World'?",
+    "options": [
+      "Cyndi Lauper",
+      "Stevie Wonder",
+      "Bruce Springsteen",
+      "Johnny Cash"
+    ],
+    "correctOption": 3,
+    "points": 20
+  },
+  {
+    "question": "What was the first YouTube video ever to reach 1 billion views?",
+    "options": [
+      "Justin Bieber – 'Baby'",
+      "Psy – 'Gangnam Style'",
+      "Adele – 'Rolling in the Deep'",
+      "LMFAO – 'Party Rock Anthem'"
+    ],
+    "correctOption": 1,
+    "points": 10
+  },
+  {
+    "question": "The British Royal Navy reportedly blasted music from ships to repel Somali pirates. Which artist's songs did they use?",
+    "options": [
+      "Metallica",
+      "Rammstein",
+      "Britney Spears",
+      "Beethoven"
+    ],
+    "correctOption": 2,
+    "points": 30,
+    "imageDescription": "A Royal Navy ship at sea, with a mysterious speaker mounted on the deck."
+  },
+  {
+    "question": "Which legendary singer reportedly called one of his own biggest hits 'a piece of shit' and 'the worst f***ing song I've ever recorded'?",
+    "options": [
+      "Elvis Presley about 'Hound Dog'",
+      "Frank Sinatra about 'Strangers in the Night'",
+      "Tony Bennett about 'I Left My Heart in San Francisco'",
+      "Bruce Springsteen about 'Candy's Room'"
+    ],
+    "correctOption": 1,
+    "points": 30
+  },
+  {
+    "question": "Name the following band, and the member in the circle",
+    "options": [
+      "Billy Gibbons",
+      "Dusty Hill",
+      "Frank Beard",
+      "All three have long beards"
+    ],
+    "correctOption": 2,
+    "points": 30
+  },
+  {
+    "question": "What does the Japanese word 'karaoke' literally translate to in English?",
+    "options": [
+      "Singing together",
+      "Empty orchestra",
+      "Open microphone",
+      "Crowd music"
+    ],
+    "correctOption": 1,
+    "points": 30
+  },
+  {
+    "question": "Which was the first (and only) band to have ever performed on all 7 continents?",
+    "options": [
+      "Spice Girls",
+      "Metallica",
+      "AC/DC",
+      "ZZ Top"
+    ],
+    "correctOption": 1,
+    "points": 30
+  }
 ]
