@@ -1,113 +1,123 @@
 [
   {
-    "question": "Metallica fired Dave Mustaine for his alcohol and drug addiction in April 11, 1983. What did Dave do next?",
+    "question": "A cockroach can survive for a surprisingly long time after losing its head. Roughly how long before it finally dies?",
     "options": [
-      "Retired from music and became a producer",
-      "Founded Megadeth, one of the Big Four of thrash metal",
-      "Joined Slayer as lead guitarist",
-      "Sued Metallica for songwriting credits and won"
+      "A few hours",
+      "About 9 days",
+      "Around 3 weeks",
+      "Cockroaches die instantly, like most animals"
     ],
     "correctOption": 1,
     "points": 20
   },
   {
-    "question": "Beethoven composed his iconic Symphony No. 9 — featuring 'Ode to Joy' — while almost completely deaf. How did he 'hear' the premiere performance in 1824?",
+    "question": "Which fruit takes a patient 1.5 to 3 years to fully grow?",
     "options": [
-      "He watched the musicians' bowing patterns to follow along",
-      "He felt the vibrations through the floor by removing his shoes",
-      "He had to be turned around by a soloist to see the applauding crowd — he couldn't hear it at all",
-      "He listened through a special ear trumpet connected to the piano"
+      "Banana",
+      "Mango",
+      "Pineapple",
+      "Watermelon"
     ],
     "correctOption": 2,
     "points": 20
   },
   {
-    "question": "At what age is Mozart believed to have composed his very first piece of music?",
+    "question": "What is the national animal of Scotland?",
     "options": [
-      "3",
-      "5",
-      "7",
-      "9"
-    ],
-    "correctOption": 1,
-    "points": 10
-  },
-  {
-    "question": "Which of the following artists did NOT sing on the 1985 charity anthem 'We Are the World'?",
-    "options": [
-      "Cyndi Lauper",
-      "Stevie Wonder",
-      "Bruce Springsteen",
-      "Johnny Cash"
+      "The red stag",
+      "The Highland cow",
+      "The golden eagle",
+      "The unicorn"
     ],
     "correctOption": 3,
     "points": 20
   },
   {
-    "question": "What was the first YouTube video ever to reach 1 billion views?",
+    "question": "In 1987, American Airlines saved a reported $40,000 a year with one tiny change to its first class salads. What did they do?",
     "options": [
-      "Justin Bieber – 'Baby'",
-      "Psy – 'Gangnam Style'",
-      "Adele – 'Rolling in the Deep'",
-      "LMFAO – 'Party Rock Anthem'"
+      "Removed a single olive from each salad",
+      "Switched to smaller plates",
+      "Stopped serving croutons",
+      "Replaced lettuce with cabbage"
     ],
-    "correctOption": 1,
-    "points": 10
+    "correctOption": 0,
+    "points": 30
   },
   {
-    "question": "The British Royal Navy reportedly blasted music from ships to repel Somali pirates. Which artist's songs did they use?",
+    "question": "The mathematical symbol for division (÷) has an actual name. What is it called?",
     "options": [
-      "Metallica",
-      "Rammstein",
-      "Britney Spears",
-      "Beethoven"
-    ],
-    "correctOption": 2,
-    "points": 30,
-    "imageDescription": "A Royal Navy ship at sea, with a mysterious speaker mounted on the deck."
-  },
-  {
-    "question": "Which legendary singer reportedly called one of his own biggest hits 'a piece of shit' and 'the worst f***ing song I've ever recorded'?",
-    "options": [
-      "Elvis Presley about 'Hound Dog'",
-      "Frank Sinatra about 'Strangers in the Night'",
-      "Tony Bennett about 'I Left My Heart in San Francisco'",
-      "Bruce Springsteen about 'Candy's Room'"
+      "The vinculum",
+      "The obelus",
+      "The solidus",
+      "The pilcrow"
     ],
     "correctOption": 1,
     "points": 30
   },
   {
-    "question": "Name the following band, and the member in the circle",
+    "question": "According to the legend, pheidippides ran the famous ~40 km from Marathon to Athens to announce the victory — and died on the spot. How many km had he already run over the two previous days?",
     "options": [
-      "Billy Gibbons",
-      "Dusty Hill",
-      "Frank Beard",
-      "All three have long beards"
+      "40 km",
+      "120 km",
+      "240 km",
+      "490 km"
     ],
     "correctOption": 2,
     "points": 30
   },
   {
-    "question": "What does the Japanese word 'karaoke' literally translate to in English?",
+    "question": "Which bizarre activity was a popular 'sport' among the nobility in 17th and 18th century England?",
     "options": [
-      "Singing together",
-      "Empty orchestra",
-      "Open microphone",
-      "Crowd music"
+      "Fox tossing — throwing a fox as far and high as possible",
+      "Competitive hedgehog rolling",
+      "Rabbit tossing — throwing a fox as far and high as possible",
+      "Badger baiting relays"
+    ],
+    "correctOption": 0,
+    "points": 30
+  },
+  {
+    "question": "The average lifespan of a pet cat has increased between the 1980s and 2021. From roughly 7 years, how far has it climbed?",
+    "options": [
+      "About 10 years",
+      "About 12 years",
+      "About 15 years",
+      "About 20 years"
+    ],
+    "correctOption": 2,
+    "points": 20
+  },
+  {
+    "question": "According to a widely quoted claim, one in 10 people born in Europe were conceived in what unlikely place?",
+    "options": [
+      "On a train",
+      "In an IKEA bed",
+      "On a cruise ship",
+      "In a hotel elevator"
     ],
     "correctOption": 1,
     "points": 30
   },
   {
-    "question": "Which was the first (and only) band to have ever performed on all 7 continents?",
+    "question": "What is the name of the metal bit at the end of a pencil that holds the eraser in place?",
     "options": [
-      "Spice Girls",
-      "Metallica",
-      "AC/DC",
-      "ZZ Top"
+      "The ferrule",
+      "The nib",
+      "The crimp",
+      "The collet"
     ],
-    "correctOption": 1,
+    "correctOption": 0,
     "points": 30
+  },
+  {
+    "question": "Spiders have an unusual way of dealing with their old webs. What do they do?",
+    "options": [
+      "Leave them and spin new ones nearby",
+      "Bury them in soil",
+      "Eat them to recycle the silk",
+      "Roll them into a ball to reuse later"
+    ],
+    "correctOption": 2,
+    "points": 20
   }
 ]
